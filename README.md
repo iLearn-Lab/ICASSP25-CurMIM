@@ -96,7 +96,7 @@ This repository currently provides:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/iLearn-Lab/CurMIM.git
+git clone https://github.com/iLearn-Lab/ICASSP25-CurMIM.git
 cd CurMIM
 ```
 
@@ -119,7 +119,7 @@ pip install torch torchvision timm==0.3.2 tensorboard
 
 ## Checkpoints
 
-The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1KyrNyLmsjkM5J4wAFLD386F8C4pgx2x2?usp=sharing).
+The cloud links of checkpoints: [Google Drive](https://drive.google.com/drive/folders/1KyrNyLmsjkM5J4wAFLD386F8C4pgx2x2?usp=sharing) and [Hugging Face](https://huggingface.co/iLearn-Lab/ICASSP25-CurMIM).
 
 ---
 
